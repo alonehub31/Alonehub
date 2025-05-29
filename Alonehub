@@ -1,0 +1,14 @@
+https://raw.githubusercontent.com/xHeptc/Kavo-UI-Library/main/source.lua
+local Window = Library.CreateLib("Alonetesthub", "BloodTheme")
+
+local Tab = Window:NewTab("fuck wickys mom sec1")
+local Section = Tab:NewSection("fucking wickys pussy")
+local Section = Tab:NewSection("fuck wickys anal")
+
+local Section = Tab:NewSection("fuck other dh stealer svs")
+local Section = Tab:NewSection("still fuck wicky anal")
+
+
+Section:NewButton("wicky porns here", "loadstring(game:HttpGet("https://pastefy.app/CY2HCHFN/raw"))()", function()
+    print("Clicked")
+end)
